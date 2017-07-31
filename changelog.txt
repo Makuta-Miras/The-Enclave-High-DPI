@@ -1,3 +1,9 @@
+31/07/17
+
+-Added the projectile for the Slush Beam.
+-Removed the projectile for the Slush Beam because the dimensions were iffy.
+
+
 30/07/17
 
 -Added the Holzst'rnak 11-P.
